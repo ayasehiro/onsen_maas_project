@@ -5,7 +5,7 @@
 千曲市ワーケーション体験会の公式サイト：<http://furoshiki-ya.co.jp/projects/work-at-chikuma/>
 
 ## 資料
-- onsen_maas_chikuma_nagano.pdf　アイデアソンにおけるグループワークの成果物
+- [onsen_maas_chikuma_nagano.pdf](https://github.com/ayasehiro/onsen_maas_project/blob/main/chikuma_nagano/onsen_maas_chikuma_nagano.pdf)　アイデアソンにおけるグループワークの成果物
 
 ## 利用方法
 - ここで公開されている資料をダウンロードして閲覧してください。
